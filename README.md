@@ -1,4 +1,7 @@
 # GTA-ECON4003-Econometrics1
+
+## Course Description
+
 Introductory Econometrics
 
 ## Slides
