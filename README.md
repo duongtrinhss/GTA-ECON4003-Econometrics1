@@ -4,7 +4,7 @@
 
 Introductory Econometrics
 
-## LAB - Slides
+## LAB - Slides (21-22)
 
 1. [COMPUTER LAB 1](https://nbviewer.org/github/duongtrinhss/GTA-ECON4003-Econometrics1/blob/main/COMPUTER%20LAB%201/ECON4003_Lab1_Duong.pdf)
 
